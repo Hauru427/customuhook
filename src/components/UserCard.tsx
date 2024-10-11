@@ -1,4 +1,4 @@
-import { VFC, useReducer } from "react";
+import { VFC } from "react";
 import { UserProfile } from "../types/userProfile";
 
 type Props = {
